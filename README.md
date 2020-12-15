@@ -5,7 +5,6 @@ US GIT Bikeshare
 ### Description
 Bikeshare project Analysis about US states
 ### Files used
-Include the files used
-
+bikeshare.py is a file with codes of U.S Bikeshare Data
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.

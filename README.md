@@ -3,8 +3,7 @@ This project was created on 15th of Dec, 2020
 ### Project Title
 US GIT Bikeshare
 ### Description
-Describe what your project is about and what it does
-
+Bikeshare project Analysis about US states
 ### Files used
 Include the files used
 

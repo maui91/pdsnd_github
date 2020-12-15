@@ -19,7 +19,7 @@ def get_filters():
         if city in ['chicago', 'new york city', 'washington']:
             break
         else:
-            print("\nAuto-Reply:invalid input. Please enter a valid input\n")
+            print("\nAuto-Reply:wrong value entered please try again\n")
     # get user input for month (all, january, february, ... , june)
     while True:
         month = input("\nAuto-Reply: Do you want details specific to a particular month? If yes, type month name from within first six months else type 'all'\n")
@@ -190,7 +190,7 @@ def display_data(df):
     if choice=='yes' :
         choice=True
     elif choice=='no':
-        choice=False    
+        choice=False
     else:
         print('\nAuto-Reply: Invild input, try again\n')
         display_data(df)

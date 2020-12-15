@@ -7,4 +7,4 @@ Bikeshare project Analysis about US states
 ### Files used
 bikeshare.py is a file with codes of U.S Bikeshare Data
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I give Credits to udacity learning tools  

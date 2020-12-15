@@ -91,7 +91,7 @@ def time_stats(df):
     )
 
     # display the most common day of week
-    print("\nAuto-Reply:Listing common day of the week: {}\n".format(
+    print("\nAuto-Reply:Listing common days of week : {}\n".format(
         str(df['day_of_week'].mode().values[0]))
     )
 

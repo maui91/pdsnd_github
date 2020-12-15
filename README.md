@@ -1,15 +1,10 @@
 ### Date created
-Include the date you created this project and README file.
-
+This project was created on 15th of Dec, 2020
 ### Project Title
-Replace the Project Title
-
+US GIT Bikeshare
 ### Description
-Describe what your project is about and what it does
-
+Bikeshare project Analysis about US states
 ### Files used
-Include the files used
-
+bikeshare.py is a file with codes of U.S Bikeshare Data
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I give Credits to udacity learning tools  
